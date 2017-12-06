@@ -1,5 +1,5 @@
 .container {
-	font-family: Source Sans Pro;
+	font-family: Times New Roman;
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
@@ -38,4 +38,7 @@
 .container p {
 	line-height: 25px;
 	font-size: 15px;
+}
+p {
+	background-color: red;
 }
