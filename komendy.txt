@@ -1,0 +1,9 @@
+Przykładowe komendy autoprefixer-cli:
+
+-O, --output file	set output file
+-b, --browser		add prefixes for selected browsers
+
+Przykładowe komendy nu-html-checker:
+
+-v, --version		output the version number
+-h, --help		output usage information
