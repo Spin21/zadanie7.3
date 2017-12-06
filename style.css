@@ -1,5 +1,9 @@
 .container {
+<<<<<<< HEAD
 	font-family: Courier New;
+=======
+	font-family: Times New Roman;
+>>>>>>> second
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
@@ -40,5 +44,9 @@
 	font-size: 15px;
 }
 p {
+<<<<<<< HEAD
 	font-wieght: bold;
+=======
+	background-color: red;
+>>>>>>> second
 }
